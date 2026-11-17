@@ -1,0 +1,6 @@
+# Original datasets (kept locally)
+data/raw/
+
+# Temporary files
+*.log
+Thumbs.db
